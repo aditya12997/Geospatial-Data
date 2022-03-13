@@ -1,6 +1,9 @@
 
 # Geo Data Mapping with GeoPandas and Folium.
 
+
+<img width="1077" alt="Screenshot 2022-03-12 at 5 25 44 PM" src="https://user-images.githubusercontent.com/54794852/158067689-e06829c2-f5b5-4ac0-9972-0fe28d5d38ca.png">
+
 This project helped me learn alot about GeoPandas and folium which are a great way to visualise your Data and plot the insights in the form of a Map which enriches our data story telling capabilities.
 
 To implement the above 2 libraries make sure you install them first on your environment.
