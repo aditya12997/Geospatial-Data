@@ -49,4 +49,17 @@ Below one say visualise the data points and it's occurence in the district and a
 
 ## 2) Inflation Data with GeoPandas.
 
+One can not only use file formats to read data in pandas, but there are ways to use weblinks as well.
+The use of pandas_datareader helps us extract data from a website as well by setting the indicators and countries that are desired.
+In this case I used the data from the Worldbank website
+
+ Link - https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+
+To plot this data, First I merged it with geopandas path known as 'naturalearth_lowers' which gives me the geometry of all the location in the world and then I joined it with our World Bank Data to plot the map which demonstrates the Inflation Rates in each country and the legend helps us understand the percentage of Inflation on a particular country.
+
+Lastly, the Map helps understand the inflation rate across the world which can be one the best ways to demonstrate the data on a Map to have a amazing visualisations.
+
+
+![Screenshot 2022-03-13 at 4 45 08 PM](https://user-images.githubusercontent.com/54794852/158067647-8df0274c-93a9-4d15-83b8-45705130be78.png)
+
 
