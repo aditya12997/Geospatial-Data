@@ -28,7 +28,8 @@ Geopandas - (https://geopandas.org/en/stable/docs/user_guide.html)
 
 Let me elaborate more on the projects and how I found these two methods so helpful.
 
-1) Dallas Shooting Project.
+## 1) Dallas Shooting Project.
+
 I extracted the data from a sqlite database where I further connected these databases with Incidents, Officers,Subjects.
 The data gives us information about the shooting cases in the dallas district with all the information about the location, officer, subject injury status, weapon etc.
 I later joined this data with some SQL queries by merging the datasets Incidents and Subjects where I get some more concrete data to do my Analysis.
