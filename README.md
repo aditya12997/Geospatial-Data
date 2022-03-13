@@ -44,9 +44,6 @@ Below one say visualise the data points and it's occurence in the district and a
 
 
 
-
-## Screenshots
-
 ![Screenshot 2022-03-13 at 3 24 19 PM](https://user-images.githubusercontent.com/54794852/158065709-5e9831e6-756e-4b86-9033-ca9c7150d24d.png)
 
 
