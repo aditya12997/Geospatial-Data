@@ -23,6 +23,7 @@ One of the greatest way to learn about a library is its Documentation. Here you 
 ## Documentation
 
 Folium - (https://python-visualization.github.io/folium/quickstart.html#Getting-Started)
+
 Geopandas - (https://geopandas.org/en/stable/docs/user_guide.html)
 
 Let me elaborate more on the projects and how I found these two methods so helpful.
