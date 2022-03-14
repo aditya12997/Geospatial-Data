@@ -38,7 +38,10 @@ The data gives us information about the shooting cases in the dallas district wi
 I later joined this data with some SQL queries by merging the datasets Incidents and Subjects where I get some more concrete data to do my Analysis.
 
 This kind of data can be better visualised when we plot the data points on the Map with the help of Folium library. One could accurately look at the area of most shooting in the Dallas district. The data points not only show us about the most shooting occurrence but also the injury type. 
-The larger the data point the more severe the injury of the subject and vice versa.
+The color of these data points are according to different races of the victim that was shot.
+The size of these data points are based on the severance of the injury. The higher the data point size the more the severe the injury and vice versa.
+
+These kinds of Map are super useful to indentify the zone within the Dallas where these events have happened and which are zones where most of these events occur based on the race and injury type.
 
 Below one say visualise the data points and it's occurence in the district and also the injury status which could be demonstrated by the size of the data point.
 
