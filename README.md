@@ -43,8 +43,9 @@ The larger the data point the more severe the injury of the subject and vice ver
 Below one say visualise the data points and it's occurence in the district and also the injury status which could be demonstrated by the size of the data point.
 
 
+![Screenshot 2022-03-14 at 1 22 24 PM](https://user-images.githubusercontent.com/54794852/158171308-b990dab4-6b6e-4070-9410-7766f40e1119.png)
 
-![Screenshot 2022-03-13 at 3 24 19 PM](https://user-images.githubusercontent.com/54794852/158065709-5e9831e6-756e-4b86-9033-ca9c7150d24d.png)
+
 
 
 ## 2) Inflation Data with GeoPandas.
